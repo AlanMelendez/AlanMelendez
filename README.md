@@ -96,15 +96,14 @@ Aquí hay una muestra de algunos de mis proyectos destacados:
 - Storage: 1TB SSD NVME
 - OS: Linux Mint
 
-## Monitors
-- Acer Nitro 1080p 27" 144hz
-- Samsung 1080p 27" 75hz
-
-# Study setup
-
 ## PC
 - Processor: Intel i5 6500
 - Graphics: Intel 520
 - Ram: 40GB
 - Storage: 1TB GB NVME (2X)
 - OS: Dual Boot (Windows/Debian)
+
+- 
+## Monitors
+- Acer Nitro 1080p 27" 144hz
+- Samsung 1080p 27" 75hz
