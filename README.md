@@ -1,7 +1,7 @@
 
 ### ¡Welcome to my account of GitHub! 👋
 
-¡Hola! Soy Alan Melendde, un desarrollador fullstack apasionado por crear soluciones innovadoras y robustas utilizando una variedad de tecnologías. Con experiencia en el desarrollo de aplicaciones web y móviles, me especializo en la creación de experiencias de usuario excepcionales desde el frontend hasta el backend.
+¡Hola! Soy Alan Melendez, un desarrollador fullstack apasionado por crear soluciones innovadoras y robustas utilizando una variedad de tecnologías. Con experiencia en el desarrollo de aplicaciones web y móviles, me especializo en la creación de experiencias de usuario excepcionales desde el frontend hasta el backend.
 
 ### About Me 
 
