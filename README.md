@@ -11,6 +11,7 @@
   - **Backend:** C#, PHP (Laravel), Node.js
   - **Bases de Datos:** MySQL, MongoDB
   - **Móvil:** Flutter (Dart) , Ionic (Angular/TypeScript)
+  - **Herramientas:** Docker, Postman, Git (Github)
 - 🌱 Siempre estoy aprendiendo y explorando nuevos lenguajes y tecnologías. Estoy dispuesto a sumergirme en cualquier tecnología que se adapte mejor a los requisitos del proyecto.
 
 ### Proyectos Destacados
