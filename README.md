@@ -1,22 +1,22 @@
 
 ### ¡Welcome to my account of GitHub! 👋
 
-¡Hola! Soy Alan Melendez, un desarrollador fullstack apasionado por crear soluciones innovadoras y robustas utilizando una variedad de tecnologías. Con experiencia en el desarrollo de aplicaciones web y móviles, me especializo en la creación de experiencias de usuario excepcionales desde el frontend hasta el backend.
+Hi! I'm Alan Melendez 🇲🇽🌮, a fullstack developer passionate about creating innovative and robust solutions using a variety of technologies. With a background in web and mobile application development, I specialize in creating exceptional user experiences from frontend to backend.
 
 ### About Me 
 
-- 💻 Actualmente trabajo como desarrollador fullstack, utilizando una combinación de tecnologías para llevar a cabo proyectos emocionantes.
-- 🚀 Me encanta trabajar con las últimas herramientas y tecnologías. Mi stack tecnológico incluye:
+- 💻 I currently work as a fullstack developer, using a combination of technologies to bring exciting projects to fruition.
+- 🚀 I love working with the latest tools and technologies. My technology stack includes:
   - **Frontend:** Angular, JavaScript (TypeScript), HTML, CSS, Vue.js
-  - **Backend:** C#, PHP (Laravel), NestJS(node)
-  - **Bases de Datos:** MySQL, MongoDB
-  - **Móvil:** Flutter (Dart) , Ionic (Angular/TypeScript)
-  - **Herramientas:** Docker, Postman, Git (Github)
-- 🌱 Siempre estoy aprendiendo y explorando nuevos lenguajes y tecnologías. Estoy dispuesto a sumergirme en cualquier tecnología que se adapte mejor a los requisitos del proyecto.
+  - Backend:** C#, PHP (Laravel), NestJS(node)
+  - Databases:** MySQL, MongoDB
+  - Mobile:** Flutter (Dart) , Ionic (Angular/TypeScript)
+  - **Tools:** Docker, Postman, Git (Github)
+- 🌱 I am always learning and exploring new languages and technologies. I am willing to dive into any technology that best suits the project requirements.
 
 ### Proyectos Destacados
 
-Aquí hay una muestra de algunos de mis proyectos destacados:
+Here is a sample of some of my featured projects:
 
 - [BDK-REST (PR)](https://cw.bdkrest.com/login) - [Demo](https://github.com/AlanMelendez/admin-template-restaurant-Angular17): The BDKREST Web Concentrator is the essential solution for restaurants looking for dynamic, real-time control of their business. With various functions and remote access, this module provides a competitive advantage in restaurant management and supervision. From monitoring sales to managing inventories and viewing table availability, the Web Hub gives full control to the owner, facilitating an agile and successful operation.
   
@@ -24,15 +24,15 @@ Aquí hay una muestra de algunos de mis proyectos destacados:
 
 - [Proyecto 3](enlace): Breve descripción del proyecto y tecnologías utilizadas.
 
-### Contáctame
+### Contact me
 
-¡Estoy siempre abierto a nuevas oportunidades de colaboración y proyectos emocionantes! Si estás interesado en trabajar juntos o simplemente quieres charlar, no dudes en contactarme:
+I'm always open to new collaboration opportunities and exciting projects! If you're interested in working together or just want to chat, feel free to contact me:
 
-- 📧 Correo electrónico: [alanmelendezalaan@outlook.com](mailto:tu@email.com)
+- 📧 Email: [alanmelendezalaan@outlook.com](mailto:tu@email.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/alan-melendez-bb3537218/](enlace)
-- 💼 Sitio web: [It's it developing...](https://github.com/AlanMelendez/mynew-portfolio-2024)
+- 💼 Web Site: [It's it developing...](https://github.com/AlanMelendez/mynew-portfolio-2024)
 
-¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y no dudes en conectarte conmigo para cualquier consulta o colaboración.
+Thanks for visiting my profile! I hope you enjoy exploring my projects and feel free to connect with me for any questions or collaboration.
 
   
 ## Code
@@ -89,9 +89,9 @@ Aquí hay una muestra de algunos de mis proyectos destacados:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# Work setup
+# WORK SETUP DAILY
 
-## Laptop
+## Laptop 💻
 
 - Dell Latitude
 - Processor: i5 11th 
@@ -99,14 +99,20 @@ Aquí hay una muestra de algunos de mis proyectos destacados:
 - Storage: 1TB SSD NVME
 - OS: Linux Mint
 
-## PC
+## PC 🖥️
 - Processor: Intel i5 6500
 - Graphics: Intel 520
 - Ram: 40GB
 - Storage: 1TB GB NVME (2X)
 - OS: Dual Boot (Windows/Debian)
 
-- 
-## Monitors
+## Monitors 🖥️🖥️
 - Acer Nitro 1080p 27" 144hz
 - Samsung 1080p 27" 75hz
+
+## Tablet 📱
+- Galaxy A8 | SM-A530FZDDPHE - Samsung
+
+- ## Headphones 🔊
+- QCY H3 Wireless Bluetooth 5.4 Headphones, Active Noise Cancellation 🎧
+- QCY HT05 Multi-mode Active Noise Cancelling Wireless Headset, AI Enhanced Calling, Bluetooth Headset with 6 microphones, Anti-wind Noise, Transparency🎧
