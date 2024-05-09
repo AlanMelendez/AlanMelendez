@@ -113,6 +113,6 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 ## Tablet 📱
 - Galaxy A8 | SM-A530FZDDPHE - Samsung
 
-- ## Headphones 🔊
+## Headphones 🔊
 - QCY H3 Wireless Bluetooth 5.4 Headphones, Active Noise Cancellation 🎧
 - QCY HT05 Multi-mode Active Noise Cancelling Wireless Headset, AI Enhanced Calling, Bluetooth Headset with 6 microphones, Anti-wind Noise, Transparency🎧
