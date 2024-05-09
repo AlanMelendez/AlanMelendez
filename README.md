@@ -8,7 +8,7 @@
 - 💻 Actualmente trabajo como desarrollador fullstack, utilizando una combinación de tecnologías para llevar a cabo proyectos emocionantes.
 - 🚀 Me encanta trabajar con las últimas herramientas y tecnologías. Mi stack tecnológico incluye:
   - **Frontend:** Angular, JavaScript (TypeScript), HTML, CSS, Vue.js
-  - **Backend:** C#, PHP (Laravel), Node.js
+  - **Backend:** C#, PHP (Laravel), NestJS(node)
   - **Bases de Datos:** MySQL, MongoDB
   - **Móvil:** Flutter (Dart) , Ionic (Angular/TypeScript)
   - **Herramientas:** Docker, Postman, Git (Github)
