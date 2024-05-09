@@ -14,7 +14,7 @@ Hi! I'm Alan Melendez 🇲🇽🌮, a fullstack developer passionate about creat
   - **Tools:** Docker, Postman, Git (Github)
 - 🌱 I am always learning and exploring new languages and technologies. I am willing to dive into any technology that best suits the project requirements.
 
-### Proyectos Destacados
+### Featured Projects
 
 Here is a sample of some of my featured projects:
 
