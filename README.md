@@ -120,4 +120,8 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 
 ## Keyboards ⌨
 - Ajazz AKS068 Pro 68 - Alice-Layout Brown Switches 
-- T-Dagger Arena 61%- Brown Switches 
+- T-Dagger Arena 61%- Brown Switches
+
+## Mouse 🖱️
+- E-YOOSO BT-MOUSE 2.4 - Ergonomic Model
+- Ocelot Gaming - Techo Black
