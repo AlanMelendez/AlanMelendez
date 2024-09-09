@@ -102,8 +102,9 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 ## PC 🖥️
 - Processor: Intel i5 6500
 - Graphics: Intel 520
-- Ram: 40GB
-- Storage: 1TB GB NVME (2X)
+- Ram: 32GB 3200mhz
+- Graphics: RX550 4GB 
+- Storage: 1TB GB NVME (X2) - 1TB HDD WESTER DIGITAL BLUE
 - OS: Dual Boot (Windows/Debian)
 
 ## Monitors 🖥️🖥️
@@ -116,3 +117,7 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 ## Headphones 🔊
 - QCY H3 Wireless Bluetooth 5.4 Headphones, Active Noise Cancellation 🎧
 - QCY HT05 Multi-mode Active Noise Cancelling Wireless Headset, AI Enhanced Calling, Bluetooth Headset with 6 microphones, Anti-wind Noise, Transparency🎧
+
+## Keyboards ⌨
+- Ajazz AKS068 Pro 68 - Alice-Layout Brown Switches 
+- T-Dagger Arena 61%- Brown Switches 
