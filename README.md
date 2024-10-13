@@ -100,7 +100,7 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 - OS: Linux Mint
 
 ## PC 🖥️
-- Processor: Intel i5 6500
+- Processor: Intel i7 6700
 - Ram: 32GB 3200mhz
 - Graphics: RX550 4GB 
 - Storage: 1TB GB NVME (X2) - 1TB HDD WESTER DIGITAL BLUE
