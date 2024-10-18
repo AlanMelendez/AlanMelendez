@@ -7,11 +7,11 @@ Hi! I'm Alan Melendez 🇲🇽🌮, a fullstack developer passionate about creat
 
 - 💻 I currently work as a fullstack developer, using a combination of technologies to bring exciting projects to fruition.
 - 🚀 I love working with the latest tools and technologies. My technology stack includes:
-  - **Frontend:** Angular, JavaScript (TypeScript), HTML, CSS
-  - **Backend:** C#(.NET8+), PHP(Laravel), NestJS(node)
-  - **Databases:** MySQL, SQLServer,MongoDB
-  - **Mobile:** Ionic (Angular/TypeScript)
-  - **Tools:** Docker, Postman, Git (Github)
+        - **Frontend:** Angular, JavaScript (TypeScript), HTML, CSS
+        - **Backend:** C#(.NET8+), PHP(Laravel), NestJS(node)
+        - **Databases:** MySQL, SQLServer,MongoDB
+        - **Mobile:** Ionic (Angular/TypeScript)
+        - **Tools:** Docker, Postman, Git (Github)
 - 🌱 I am always learning and exploring new languages and technologies. I am willing to dive into any technology that best suits the project requirements.
 
 ### Featured Projects
