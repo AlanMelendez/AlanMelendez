@@ -100,7 +100,7 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 - OS: Linux Mint
 
 ## PC 🖥️
-- Processor: Intel i7 6700
+- Processor: Intel I7 6700
 - Ram: 32GB 3200mhz
 - Graphics: RX550 4GB 
 - Storage: 1TB GB NVME (X2) - 1TB HDD WESTER DIGITAL BLUE
@@ -109,6 +109,7 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 ## Monitors 🖥️🖥️
 - Acer Nitro 1080p 27" 144hz
 - Samsung 1080p 27" 75hz
+- Samsung 1080p 24" 75hz (Portrait orientation)
 
 ## Tablet 📱
 - Galaxy A8 | SM-A530FZDDPHE - Samsung
@@ -118,6 +119,7 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 - QCY HT05 Multi-mode Active Noise Cancelling Wireless Headset, AI Enhanced Calling, Bluetooth Headset with 6 microphones, Anti-wind Noise, Transparency🎧
 
 ## Keyboards ⌨
+- Custom Corne Split  Keyboard (main) - Purple Switch / Mario's Game Keycaps Set
 - Ajazz AKS068 Pro 68 - Alice-Layout Brown Switches 
 - T-Dagger Arena 61%- Brown Switches
 
