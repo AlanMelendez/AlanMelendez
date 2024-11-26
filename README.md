@@ -14,15 +14,7 @@ Hi! I'm Alan Melendez 🇲🇽🌮, a fullstack developer passionate about creat
    - **Tools:** Docker, Postman, Git (Github)
 - 🌱 I am always learning and exploring new languages and technologies. I am willing to dive into any technology that best suits the project requirements.
 
-### Featured Projects
 
-Here is a sample of some of my featured projects:
-
-- [BDK-REST (PR)](https://cw.bdkrest.com/login) - [Demo](https://github.com/AlanMelendez/admin-template-restaurant-Angular17): The BDKREST Web Concentrator is the essential solution for restaurants looking for dynamic, real-time control of their business. With various functions and remote access, this module provides a competitive advantage in restaurant management and supervision. From monitoring sales to managing inventories and viewing table availability, the Web Hub gives full control to the owner, facilitating an agile and successful operation.
-  
-- [FACSA-CITAS ASPIRANTES](https://citas.facsa.ujed.mx/auth/login): Web application for administrative appointment of new applicant. It contains an administrative panel for plus two administrative staff and a student panel to capture their data. (Haves reports and the exports  their are  in.PDF,.XLS,JPG )
-
-- [Proyecto 3](enlace): Breve descripción del proyecto y tecnologías utilizadas.
 
 ### Contact me
 
