@@ -119,9 +119,9 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 - QCY HT05 Multi-mode Active Noise Cancelling Wireless Headset, AI Enhanced Calling, Bluetooth Headset with 6 microphones, Anti-wind Noise, Transparency🎧
 
 ## Keyboards ⌨
-- Custom Corne Split  Keyboard (main) - Purple Switch / Mario's Game Keycaps Set
-- Ajazz AKS068 Pro 68 - Alice-Layout Brown Switches 
-- T-Dagger Arena 61%- Brown Switches
+- Custom Lily58pro -  Brown Switches Manually Lubricated/Keycaps Low Profile
+- Custom Corne Split  Keyboard - Purple Switch / Mario's Game Keycaps Set
+- Ajazz AKS068 Pro 68 - Alice-Layout Brown Switches - KeyCaps Low Profile.
 
 ## Mouse 🖱️
 - E-YOOSO BT-MOUSE 2.4 - Ergonomic Model
