@@ -22,7 +22,7 @@ I'm always open to new collaboration opportunities and exciting projects! If you
 
 - 📧 Email: [alanmelendezalaan@outlook.com](mailto:tu@email.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/alan-melendez-bb3537218/](enlace)
-- 💼 Web Site: [It's it developing...](https://github.com/AlanMelendez/mynew-portfolio-2024)
+- 💼 Web Site: [It's it developing...](https://alancuevasmelendez.com/)
 
 Thanks for visiting my profile! I hope you enjoy exploring my projects and feel free to connect with me for any questions or collaboration.
 
