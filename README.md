@@ -91,12 +91,12 @@ Thanks for visiting my profile! I hope you enjoy exploring my projects and feel 
 - Storage: 1TB SSD NVME
 - OS: Linux Mint
 
-## PC 🖥️
-- Processor: Intel I7 6700
-- Ram: 32GB 3200mhz
-- Graphics: RX550 4GB 
-- Storage: 1TB GB NVME (X2) - 1TB HDD WESTER DIGITAL BLUE
-- OS: Dual Boot (Windows/Debian)
+## Laptop 💻
+
+- MacBook Pro M4
+- Ram: 16GB DDR4
+- Storage: 1TB
+- OS: MACOS
 
 ## Monitors 🖥️🖥️
 - Acer Nitro 1080p 27" 144hz
