@@ -1,120 +1,122 @@
+<!-- ✨ Alan Melendez - README ✨ -->
 
-### ¡Welcome to my account of GitHub! 👋
+<h1 align="center">👋 Welcome to My Code Universe!</h1>
+<h3 align="center">Fullstack Developer • Code Craftsman • Coffee Fueled Human ☕</h3>
 
-Hi! I'm Alan Melendez 🇲🇽🌮, a fullstack developer passionate about creating innovative and robust solutions using a variety of technologies. With a background in web and mobile application development, I specialize in creating exceptional user experiences from frontend to backend.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=22D3EE&center=true&vCenter=true&width=550&lines=Hi!+I'm+Alan+Melendez!;Fullstack+Developer+from+Mexico!;I+turn+coffee+into+clean+code!;Breaking+bugs+since+2015!;Welcome+to+my+GitHub+playground!"/>
+</p>
 
-### About Me 
+---
 
-- 💻 I currently work as a fullstack developer, using a combination of technologies to bring exciting projects to fruition.
-- 🚀 I love working with the latest tools and technologies. My technology stack includes:
-   - **Frontend:** Angular, JavaScript (TypeScript), HTML, CSS
-   - **Backend:** C#(.NET8+), PHP(Laravel), NestJS(node)
-   - **Databases:** MySQL, SQLServer,MongoDB
-   - **Mobile:** Flutter, Ionic (Angular/TypeScript), Learning (React Native)
-   - **Tools:** Docker, Postman, Git (Github)
-- 🌱 I am always learning and exploring new languages and technologies. I am willing to dive into any technology that best suits the project requirements.
+## 🧠 About Me  
 
+👨‍💻 Hey there! I'm **Alan Melendez** 🇲🇽🌮 — a *Fullstack Developer* who enjoys crafting awesome web and mobile experiences.  
+I believe code should be functional, beautiful, and maybe make you chuckle a bit 😎  
 
+- 💼 **Currently:** Fullstack Developer  
+- 🚀 **Tech Stack:**  
+  - **Frontend:** Angular, TypeScript, HTML, CSS  
+  - **Backend:** C# (.NET 8+), PHP (Laravel), NestJS  
+  - **Databases:** MySQL, SQL Server, MongoDB  
+  - **Mobile:** Flutter, Ionic (Angular/TypeScript), learning React Native  
+  - **Dev Tools:** Docker, GitHub, Postman  
+- 🌱 **Always learning:** Whatever breaks my build this week.  
 
-### Contact me
+---
 
-I'm always open to new collaboration opportunities and exciting projects! If you're interested in working together or just want to chat, feel free to contact me:
+## 📬 Let’s Connect  
 
-- 📧 Email: [alanmelendezalaan@outlook.com](mailto:tu@email.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/alan-melendez-bb3537218/](enlace)
-- 💼 Web Site: [AlanCuevasMelendez.com](https://alancuevasmelendez.com/)
+<p align="center">
+  <a href="mailto:alanmelendezalaan@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alan-melendez-bb3537218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://alancuevasmelendez.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-Thanks for visiting my profile! I hope you enjoy exploring my projects and feel free to connect with me for any questions or collaboration.
+---
 
-  
-## Code
+## 🧩 Tech Arsenal  
 
+### 💾 Languages  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Operating systems
-
+### 💻 Operating Systems  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Database management
-
+### 🗄️ Databases  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## Frameworks
-- **Frontend:**
-  - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🧱 Frameworks & DevOps  
+**Frontend:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **Backend:**
-  - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Backend:**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- **DevOps:**
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  - ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+**DevOps / Infra:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-## Editors
+---
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+## ⚙️ Work Setup (a.k.a. My Batcave 🦇)
 
-## Servers
+| Gear | Description |
+|------|--------------|
+| 💻 **Dell Latitude** | i5 11th Gen / 16GB DDR4 / 1TB SSD / Linux Mint |
+| 🍎 **MacBook Pro M4** | 16GB RAM / 1TB SSD / macOS |
+| 🖥️ **Monitors** | Acer Nitro 27" 144Hz, Samsung 27" + 24" (Portrait) |
+| 🎧 **Headphones** | QCY H3 & HT05 (because silence = productivity) |
+| ⌨ **Keyboards** | Lily58 Pro, Corne Split, Ajazz AKS068 Pro (yeah, I build my own 😎) |
+| 🖱️ **Mice** | E-YOOSO BT-Mouse & Ocelot Gaming Black |
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+---
 
-## Utils
+## 📊 GitHub Stats  
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlanMelendez&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanMelendez&theme=tokyonight" />
+</p>
 
-# WORK SETUP DAILY
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlanMelendez&theme=tokyo-night" />
+</p>
 
-## Laptop 💻
+---
 
-- Dell Latitude
-- Processor: i5 11th 
-- Ram: 16GB DDR4
-- Storage: 1TB SSD NVME
-- OS: Linux Mint
+## 😂 Fun Fact  
 
-## Laptop 💻
+> My code runs on caffeine, curiosity, and chaos.  
+If something breaks, it’s *probably* a feature. 😎  
 
-- MacBook Pro M4
-- Ram: 16GB DDR4
-- Storage: 1TB
-- OS: MACOS
+---
 
-## Monitors 🖥️🖥️
-- Acer Nitro 1080p 27" 144hz
-- Samsung 1080p 27" 75hz
-- Samsung 1080p 24" 75hz (Portrait orientation)
+## 💬 Thanks for Stopping By!
 
-## Tablet 📱
-- Galaxy A8 | SM-A530FZDDPHE - Samsung
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R4M2hlZjFjcmZ3bHd6ZW1zMWJ4ZjV3eHhpdGV4YWl3eDU5N2M0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G96zgIcQn1L2xpmdxi/giphy.gif" width="200"/>
+</p>
 
-## Headphones 🔊
-- QCY H3 Wireless Bluetooth 5.4 Headphones, Active Noise Cancellation 🎧
-- QCY HT05 Multi-mode Active Noise Cancelling Wireless Headset, AI Enhanced Calling, Bluetooth Headset with 6 microphones, Anti-wind Noise, Transparency🎧
+<p align="center">
+  ⭐ If you liked my profile, drop a star on a repo or connect with me — let’s build something epic together!
+</p>
 
-## Keyboards ⌨
-- Custom Lily58pro -  Brown Switches Manually Lubricated/Keycaps Low Profile
-- Custom Corne Split  Keyboard - Purple Switch / Mario's Game Keycaps Set
-- Ajazz AKS068 Pro 68 - Alice-Layout Brown Switches - KeyCaps Low Profile.
+---
 
-## Mouse 🖱️
-- E-YOOSO BT-MOUSE 2.4 - Ergonomic Model
-- Ocelot Gaming - Techo Black
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlanMelendez&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+</p>
